@@ -13,9 +13,9 @@ title : Ramblin's of a Wreak
 tagline: Site Tagline
 author :
   name : Will King
-  email : blah@email.test
-  github : username
-  twitter : username
+  email : william@boutine.com
+  github : willyum
+  twitter : @wking124
   feedburner : feedname
 
 # The production_url is only used when full-domain names are needed
@@ -87,7 +87,7 @@ JB :
     intensedebate :
       account : 123abc
     facebook :
-      appid : 123
+      appid : http://willyum.github.com
       num_posts: 5
       width: 580
       colorscheme: light
