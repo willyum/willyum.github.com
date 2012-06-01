@@ -1,0 +1,31 @@
+---
+layout: default
+title: Blog
+tagline: Supporting tagline
+group: navigation
+---
+{% include JB/setup %}
+
+.page-header
+  %h1
+    Ramblin's of a Wreak
+
+
+#posts
+  {% for post in site.posts offset: 0 limit: 10 %}
+  .row
+    .span2.pagination-right{:style => "padding-top: 8px"}
+      %h4
+        {{ post.date | date_to_string }}
+    .span8
+      %h2
+        %a{:href => "{{ post.url }}"} {{ post.title }}  
+
+  %br
+  
+  .row
+    .span8.offset2
+      {{ post.content }}
+      %a.btn.pagination-right{:href => "{{ post.url }}"} Read More &raquo;
+  %hr
+  {% endfor %}

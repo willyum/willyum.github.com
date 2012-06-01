@@ -1,5 +1,12 @@
 html, body {
-  background: #eee url(http://subtlepatterns.com/patterns/bright_squares.png);
+  background: #eee url(http://subtlepatterns.com/patterns/px_by_Gre3g.png);
+}
+
+.hero-unit{
+  background: silver url(http://subtlepatterns.com/patterns/light_toast.png);
+}
+.hero-details h2{
+  text-align: center;
 }
 
 .navbar {
@@ -33,6 +40,7 @@ html, body {
 }
 .container > footer p {
   text-align: center; /* center align it with the container */
+  color: grey;
 }
 
 /* The white background content wrapper */
