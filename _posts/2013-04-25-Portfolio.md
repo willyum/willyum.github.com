@@ -1,0 +1,22 @@
+---
+layout: post
+title: "Final Portfolio"
+tagline: A Reflection
+category: Portfolio
+tags: [LCC3403, GT]
+---
+{% include JB/setup %}
+
+LCC3403: Technical Communications with Paulette Richards was truly a change of pace from typical Georgia Tech classes. Instead of being drilled with problem sets, I was given the opportunity to develop my written, oral, visual, electronic, and non-verbal communication skills through a variety of creative projects. We kicked off the class by analyzing our resumes holistically, taking to account not only the content but overall design and feel. Together we discussed how a resume is a first impression and how we could improve the phrasing to focus on the most relevant information to recruiters. By the end I learned how to communicate my accomplishments effectively and concisely with the fewest amount of words.
+
+Dovetailing from our resumes, as a class we considered the topic of one’s online reputation and how it is an increasingly important aspect of our lives and a company’s success. Students then chose topics to research and create a presentation around to educate rest of the class. My presentation focused on how celebrities interact with their fans through Reddit, an open source news platform. From my personal experience, I found slideshows with less text and more visuals were more effective so I made a conscious effort to illustrate my points through data and images. For example I used images rather than just the names of celebrities to illustrate examples of Reddit users. In addition, for the actual presentation, I knew the quality of a presentation was directly correlated with the excitement and non-verbal cues of the presenter. Due to this fact, I made sure to add physical cues and gestures to my rehearsal of the presentation. By the end of this project I was much more aware of my posture and non-verbal expressions.
+
+The next set of assignments were spiritually related to a topic of Big Data. We all were again given the freedom to choose topics we had a passion about, mine being Massively Open Online Courses, or MOOCs. Our first exercise was to write up a technical process description. It was made clear that we would have to take into consideration our audience and the purpose. This made me deeply consider how style and language should reflect the intended audience of my writing. From this I wrote up a description of how I believed MOOCs would change the landscape of education for students.
+
+Building on top of our technical description we created podcasts to demonstrate our new knowledge of big data. Using the technical description as a rough script, I used Audacity to record and edit a podcast. While listening to the playback of my podcast, it was made extremely evident that intonation and pitch heavily influenced the experience for my audience. This was compounded by the fact digital systems had trouble with certain aversion to sounds like “s.” I used with my next takes and post editing to polish my final podcast.
+
+The last portion of our Big Data arc was to produce a poster that conveyed all that we learned. I decided create an infographic that defined what a MOOC was and how the major players in the space adapt through data analysis. Using visual data representations I was able to show the steps a MOOC data mined in a cyclical fashion as well as some other statistics on the size of the companies that are producing the classes. This was a great application of design theory and typography fundamentals that we went over in class.
+
+As a bonus for my portfolio, I included an instructional video that I made for my company, eCommHub. Due to the fact eCommHub is a startup with only 4 employees that handle everything from development to marketing and support, we must try to minimize the time spent handling common questions for customers. To do so we created a video that explained how to set up our product. I was able to bring together a lot of aspects of multimedia and oral presentation to the instructional video. This was definitely a culmination of the skills I learned in class, especially making sure to address my intended audience as well as having clear language and intonation.
+
+In the end this class has helped me become a well rounded engineer and developer who could communicate in the aspects of written, oral, visual, electronic, and non-verbal mediums. These projects are proud works I would like to share with peers, mentors, and employers. I hope you enjoy them as much as I did creating them!

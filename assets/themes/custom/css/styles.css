@@ -1,11 +1,11 @@
 /* line 1, ../sass/styles.scss */
 html, body {
-  background: #eeeeee url(http://subtlepatterns.com/patterns/px_by_Gre3g.png);
+  background: #eeeeee url(../img/bg.png);
 }
 
 /* line 5, ../sass/styles.scss */
 .hero-unit {
-  background: silver url(http://subtlepatterns.com/patterns/light_toast.png);
+  background: silver url(../img/toast.png);
 }
 
 /* line 8, ../sass/styles.scss */
@@ -63,7 +63,7 @@ html, body {
 .content {
   background-color: #fff;
   padding: 20px;
-  margin: 0 -20px;
+  margin: 0px -20px 0 -20px;
   /* negative indent the amount of the padding to maintain the grid system */
   -webkit-border-radius: 0 0 6px 6px;
   -moz-border-radius: 0 0 6px 6px;
@@ -126,4 +126,37 @@ html, body {
   background: #57A957;
   border: 1px solid #4C964D;
   color: #FFF;
+}
+
+.well {
+  padding: 15px;
+  margin: 10px 0px 0px 0px;
+  border-style: solid;
+  border-width: 1px;
+  text-align: center;
+  border-color: #d9d9d9;
+  margin-bottom: 1.25em;
+  padding: 1.25em;
+  background: #f2f2f2;
+}
+
+.portfolio-thumb{
+  font-size: 200px;
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.icon-cont{
+  width: 250px;
+}
+
+a [class^="icon-"], a [class*=" icon-"] {
+  display: block;
+  text-decoration: none;
+}
+
+.top10 {
+  margin-top: 20px;
 }
